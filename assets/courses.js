@@ -125,13 +125,13 @@ const COURSES = [
     faculty: "Ekd",
     year: "2024",
     provider: PROVIDER,
-    project: null,
+    project: "https://github.com/WinTer1165/CSE332-MIPS-CPU-Design-and-Testing",
     drive:
       "https://drive.google.com/file/d/1bSr_-6cLq2S26uKVYORsvOD0LpyVx9MJ/view?usp=drive_link",
   },
   {
     code: "CSE438",
-    name: "Computer Networks",
+    name: "Data Communication & Networking",
     dept: "CSE",
     faculty: "HzR",
     year: "2025",
@@ -142,7 +142,7 @@ const COURSES = [
   },
   {
     code: "CSE468",
-    name: "Natural Language Processing",
+    name: "Computer Vision",
     dept: "CSE",
     faculty: "AFE",
     year: "2025",

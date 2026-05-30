@@ -2,7 +2,7 @@
  * Each entry: code, name, faculty, dept, year, provider, project (repo URL | null), drive (Drive link)
  * provider: name string when shared by the maintainer, otherwise null (shown as N/A).
  */
-const PROVIDER = "Aminul Islam Labib";
+const PROVIDER = "WinTer1165";
 
 const COURSES = [
   // ---------------- CSE ----------------
@@ -303,7 +303,7 @@ const COURSES = [
     code: "MAT120",
     name: "Calculus and Analytic Geometry I (Spring 2025)",
     dept: "MAT",
-    faculty: "MTM",
+    faculty: "kkar",
     year: "2025",
     provider: PROVIDER,
     project: null,

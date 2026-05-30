@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://winter1165.github.io/nsu-study-stash/sitemap.xml

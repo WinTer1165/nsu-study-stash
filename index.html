@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="theme-color" content="#4f46e5" />
+
+  <title>NSU Study Stash — Free NSU Course Materials, Notes, Labs & Projects</title>
+  <meta name="description" content="A free, open archive of North South University (NSU) course materials — lectures, labs, assignments, exams, projects and books for CSE, GED and MAT courses. Download via Google Drive." />
+  <meta name="keywords" content="NSU, North South University, course materials, NSU CSE, NSU notes, NSU previous questions, NSU labs, CSE115, CSE173, CSE331, MAT120, study resources, Bangladesh university" />
+  <meta name="author" content="Aminul Islam Labib" />
+  <meta name="robots" content="index, follow" />
+  <link rel="canonical" href="https://winter1165.github.io/nsu-study-stash/" />
+
+  <!-- Open Graph -->
+  <meta property="og:type" content="website" />
+  <meta property="og:title" content="NSU Study Stash — Free NSU Course Materials" />
+  <meta property="og:description" content="Open archive of NSU course materials — lectures, labs, assignments, exams and projects for CSE, GED and MAT. Free Google Drive downloads." />
+  <meta property="og:url" content="https://winter1165.github.io/nsu-study-stash/" />
+  <meta property="og:site_name" content="NSU Study Stash" />
+
+  <!-- Twitter -->
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content="NSU Study Stash — Free NSU Course Materials" />
+  <meta name="twitter:description" content="Open archive of NSU course materials for CSE, GED and MAT. Free downloads." />
+
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Crect width='100' height='100' rx='22' fill='%234f46e5'/%3E%3Ctext x='50' y='70' font-size='60' text-anchor='middle' fill='white' font-family='Arial' font-weight='bold'%3E%E2%9C%A6%3C/text%3E%3C/svg%3E" />
+
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=JetBrains+Mono:wght@600&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="assets/styles.css" />
+
+  <!-- Structured data -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "CollectionPage",
+    "name": "NSU Study Stash",
+    "description": "Open archive of North South University course materials for CSE, GED and MAT courses.",
+    "url": "https://winter1165.github.io/nsu-study-stash/",
+    "author": { "@type": "Person", "name": "Aminul Islam Labib", "url": "https://github.com/WinTer1165" },
+    "license": "https://opensource.org/licenses/MIT"
+  }
+  </script>
+</head>
+<body>
+  <a class="skip-link" href="#courses">Skip to courses</a>
+
+  <header class="hero">
+    <div class="hero__bar">
+      <div class="brand">
+        <span class="brand__mark" aria-hidden="true">✦</span>
+        <span class="brand__name">NSU Study Stash</span>
+      </div>
+      <nav class="hero__nav" aria-label="Primary">
+        <a href="#courses">Courses</a>
+        <a href="#contribute">Contribute</a>
+        <a href="https://github.com/WinTer1165/nsu-study-stash" target="_blank" rel="noopener">GitHub</a>
+        <button id="themeToggle" class="theme-toggle" type="button" aria-label="Toggle dark mode">🌙</button>
+      </nav>
+    </div>
+
+    <div class="hero__content">
+      <h1>Every NSU course, in one open stash.</h1>
+      <p class="hero__sub">
+        A free, student-built archive of <strong>North South University</strong> course materials —
+        lectures, labs, assignments, previous questions, projects and reference books.
+        Organized, zipped and one click from download.
+      </p>
+      <div class="stats" id="stats" aria-live="polite"></div>
+    </div>
+  </header>
+
+  <main>
+    <section class="controls" aria-label="Search and filter">
+      <div class="search">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M21 21l-4.35-4.35M11 18a7 7 0 1 1 0-14 7 7 0 0 1 0 14z" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>
+        <input id="search" type="search" placeholder="Search by code, course name or faculty…" aria-label="Search courses" autocomplete="off" />
+      </div>
+      <div class="filters" id="filters" role="tablist" aria-label="Filter by department"></div>
+    </section>
+
+    <section id="courses" class="grid" aria-label="Course list"></section>
+    <p id="empty" class="empty" hidden>No courses match your search.</p>
+  </main>
+
+  <section id="contribute" class="info">
+    <div class="info__card">
+      <h2>🤝 Want to contribute?</h2>
+      <p>This stash grows when students share. You can add a course, fix faculty initials, or upload missing materials:</p>
+      <ol>
+        <li><strong>Open an issue</strong> on the <a href="https://github.com/WinTer1165/nsu-study-stash/issues" target="_blank" rel="noopener">GitHub repo</a> with the course code and what you have, <em>or</em></li>
+        <li><strong>Fork &amp; PR:</strong> add your entry to <code>assets/courses.js</code> following the existing format and open a pull request, <em>or</em></li>
+        <li><strong>Email me</strong> the files (a Google Drive link works best) at <a href="mailto:aminulislamlabib@gmail.com?subject=NSU%20Study%20Stash%20—%20Contribution">aminulislamlabib@gmail.com</a> and I'll add them with credit.</li>
+      </ol>
+      <p class="muted">Please keep filenames clean and avoid uploading anyone's personal or graded work.</p>
+    </div>
+
+    <div class="info__card info__card--alt">
+      <h2>⚖️ Copyright &amp; takedown</h2>
+      <p>
+        These materials are shared by students for educational use only. All lecture slides, notes and books
+        remain the property of their respective authors, faculty and North South University.
+      </p>
+      <p>
+        <strong>If you are from NSU or a faculty member</strong> and would like any material removed, please email
+        <a href="mailto:aminulislamlabib@gmail.com?subject=NSU%20Study%20Stash%20—%20Takedown%20Request">aminulislamlabib@gmail.com</a>
+        and it will be taken down promptly.
+      </p>
+    </div>
+  </section>
+
+  <footer class="footer">
+    <p>
+      Built with ♥ by <a href="https://github.com/WinTer1165" target="_blank" rel="noopener">Aminul Islam Labib</a>
+      · <a href="https://github.com/WinTer1165/nsu-study-stash" target="_blank" rel="noopener">Source on GitHub</a>
+      · MIT Licensed (site code)
+    </p>
+    <p class="muted">NSU Study Stash is an independent, unofficial student project and is not affiliated with North South University.</p>
+  </footer>
+
+  <script src="assets/courses.js"></script>
+  <script src="assets/app.js"></script>
+</body>
+</html>

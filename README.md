@@ -61,8 +61,8 @@ Course/
 | **MAT120** | Calculus and Analytic Geometry I (Spring 2025) | kkar | 2025 | WinTer1165 | — | [Drive](https://drive.google.com/file/d/1qs5bOxVAgSHCeVGqFE1dmMOHHIGyLcad/view?usp=drive_link) |
 | **MAT125** | Linear Algebra | kkar | 2024 | N/A | — | [Drive](https://drive.google.com/file/d/1Dg2NANdUPQanG4ksEEgqAMgTNZSm14On/view?usp=drive_link) |
 
-> **Faculty** uses NSU short initials. `N/A` = not recorded in the source files. `—` = not applicable / unknown.
-> **Labs** for CSE115 / CSE215 / CSE231 are bundled inside the parent course zip.
+> **Faculty** uses NSU short initials. `N/A` = not recorded in the source files. `—` = not applicable/unknown.
+> **Labs** for CSE courses are bundled inside the parent course zip.
 
 ## 🚀 Running locally
 

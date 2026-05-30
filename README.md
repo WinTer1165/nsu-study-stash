@@ -100,6 +100,6 @@ The **website code** in this repository is released under the [MIT License](LICE
 
 <div align="center">
 
-Built with ♥ by [Aminul Islam Labib](https://github.com/WinTer1165) · *Independent, unofficial student project — not affiliated with North South University.*
+Built with ♥ by [WinTer1165](https://github.com/WinTer1165) · *Independent, unofficial student project — not affiliated with North South University.*
 
 </div>

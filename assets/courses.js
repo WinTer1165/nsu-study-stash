@@ -235,7 +235,7 @@ const COURSES = [
     code: "ENG103",
     name: "Intermediate Composition",
     dept: "GED",
-    faculty: "N/A",
+    faculty: "NM",
     year: "2023",
     provider: PROVIDER,
     project: null,

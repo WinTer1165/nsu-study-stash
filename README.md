@@ -43,7 +43,7 @@ Course/
 | **CSE331** | Microprocessor & Embedded Systems | ACQ | 2026 | WinTer1165 | [repo](https://github.com/WinTer1165/Multi-Gas-Safety-System-with-Voice-Alerts-Web-Dashboard) | [Drive](https://drive.google.com/file/d/1qmOde9Eva7ccHOxmEg_9mPNiOY0EOkVQ/view?usp=drive_link) |
 | **CSE332** | Computer Organization and Architecture | MAQm | 2025 | WinTer1165 | — | [Drive](https://drive.google.com/file/d/1HqS8lvGmpS5fgZrKa_xZ67C-V9skhmCf/view?usp=drive_link) |
 | **CSE373** | Design and Analysis of Algorithms | Ekd | 2024 | WinTer1165 | — | [Drive](https://drive.google.com/file/d/1bSr_-6cLq2S26uKVYORsvOD0LpyVx9MJ/view?usp=drive_link) |
-| **CSE438** | Computer Networks | HzR | 2025 | WinTer1165 | 2025 | [Drive](https://drive.google.com/file/d/1yCKcdhnmJ9MZWJIiyWYKoB1KH3gCCsJw/view?usp=drive_link) |
+| **CSE438** | Computer Networks | HzR | 2025 | WinTer1165 | — | [Drive](https://drive.google.com/file/d/1yCKcdhnmJ9MZWJIiyWYKoB1KH3gCCsJw/view?usp=drive_link) |
 | **CSE468** | Natural Language Processing | AFE | 2025 | WinTer1165 | [repo](https://github.com/WinTer1165/Visual-Question-Answering-on-Mobile-UI-Screenshots) | [Drive](https://drive.google.com/file/d/14Oy4FSwmUaHrUz2V8X1objGJX07Nwu-M/view?usp=drive_link) |
 | **CSE482** | Internet and Web Technology | NQH | 2024 | WinTer1165 | — | [Drive](https://drive.google.com/file/d/182_-9E-EpGvPAztcUPNM-2v7BGxBvqnU/view?usp=drive_link) |
 | **EEE141** | Electrical Circuits I | KMM | 2026 | WinTer1165 | — | [Drive](https://drive.google.com/file/d/1Oi-qw0Olli65NFZlUao_9wMuNcJWPSij/view?usp=drive_link) |

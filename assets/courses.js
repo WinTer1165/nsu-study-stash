@@ -114,7 +114,8 @@ const COURSES = [
     faculty: "MAQm",
     year: "2025",
     provider: PROVIDER,
-    project: null,
+    project: 
+    "https://github.com/WinTer1165/CSE332-MIPS-CPU-Design-and-Testing",
     drive:
       "https://drive.google.com/file/d/1HqS8lvGmpS5fgZrKa_xZ67C-V9skhmCf/view?usp=drive_link",
   },
@@ -125,7 +126,7 @@ const COURSES = [
     faculty: "Ekd",
     year: "2024",
     provider: PROVIDER,
-    project: "https://github.com/WinTer1165/CSE332-MIPS-CPU-Design-and-Testing",
+    project: null,
     drive:
       "https://drive.google.com/file/d/1bSr_-6cLq2S26uKVYORsvOD0LpyVx9MJ/view?usp=drive_link",
   },

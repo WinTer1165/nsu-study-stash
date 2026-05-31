@@ -26,7 +26,24 @@
       `<span class="stat"><b>${n}</b> courses</span>` +
       `<span class="stat"><b>${depts}</b> departments</span>` +
       `<span class="stat"><b>${withProj}</b> project repos</span>` +
-      `<span class="stat">100% free</span>`;
+      `<span class="stat">100% free</span>` +
+      `<span class="stat" id="viewStat" hidden>👁 <b id="viewCount">0</b> views</span>`;
+  }
+
+  /* ----- live page-view counter (Abacus: free, no sign-up) ----- */
+  function loadViews() {
+    const chip = document.getElementById("viewStat");
+    if (!chip) return;
+    fetch("https://abacus.jasoncameron.dev/hit/nsu-study-stash-winter1165/home")
+      .then((r) => (r.ok ? r.json() : Promise.reject()))
+      .then((d) => {
+        const n = d && (typeof d.value === "number" ? d.value : d.count);
+        if (typeof n === "number") {
+          document.getElementById("viewCount").textContent = n.toLocaleString();
+          chip.hidden = false;
+        }
+      })
+      .catch(() => {}); // counter is best-effort; never block the page
   }
 
   /* ----- filters ----- */
@@ -133,4 +150,5 @@
   renderFilters();
   render();
   injectItemList();
+  loadViews();
 })();

@@ -6,12 +6,13 @@
     </linearGradient>
   </defs>
   <rect width="100" height="100" rx="24" fill="url(#nssBg)"/>
-  <!-- stacked books = the "stash" -->
-  <g fill="#ffffff">
-    <rect x="23" y="60" width="54" height="12" rx="3.5" opacity="0.55"/>
-    <rect x="23" y="44" width="54" height="12" rx="3.5" opacity="0.80"/>
-    <rect x="23" y="28" width="54" height="12" rx="3.5"/>
-  </g>
-  <!-- bookmark ribbon on the top book -->
-  <path d="M57 24 h9 v22 l-4.5 -4 -4.5 4 z" fill="#f59e0b"/>
+  <!-- cap base (head piece) -->
+  <path d="M31 46 V58 C31 65 40 69 50 69 C60 69 69 65 69 58 V46 L50 55 Z" fill="#ffffff" opacity="0.9"/>
+  <!-- mortarboard -->
+  <path d="M50 24 L84 40 L50 56 L16 40 Z" fill="#ffffff"/>
+  <!-- centre button -->
+  <circle cx="50" cy="40" r="3" fill="#f59e0b"/>
+  <!-- tassel -->
+  <path d="M50 40 L78 42 L78 60" fill="none" stroke="#f59e0b" stroke-width="3.2" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="78" cy="63.5" r="4" fill="#f59e0b"/>
 </svg>

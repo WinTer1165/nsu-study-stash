@@ -7,6 +7,7 @@
   const searchEl = document.getElementById("search");
   const filtersEl = document.getElementById("filters");
   const statsEl = document.getElementById("stats");
+  const flagsEl = document.getElementById("flags");
 
   const DEPTS = ["All", "CSE", "GED", "MAT"];
   let activeDept = "All";
@@ -89,6 +90,22 @@
       </article>`;
   }
 
+  /* ----- flagged issues (static HTML, filtered by the same search) ----- */
+  function renderFlags() {
+    if (!flagsEl) return 0;
+    const q = query.trim().toLowerCase();
+    let shown = 0;
+    flagsEl.querySelectorAll(".flag").forEach((el) => {
+      const dept = el.dataset.flagDept || "";
+      const hay = ((el.dataset.flagTags || "") + " " + el.textContent).toLowerCase();
+      const ok = (activeDept === "All" || dept === activeDept) && (!q || hay.includes(q));
+      el.hidden = !ok;
+      if (ok) shown++;
+    });
+    flagsEl.hidden = shown === 0;
+    return shown;
+  }
+
   function render() {
     const q = query.trim().toLowerCase();
     const list = COURSES.filter((c) => {
@@ -99,7 +116,8 @@
       return okDept && okText;
     });
     grid.innerHTML = list.map(card).join("");
-    empty.hidden = list.length !== 0;
+    const flagsShown = renderFlags();
+    empty.hidden = list.length !== 0 || flagsShown > 0;
   }
 
   /* ----- theme ----- */

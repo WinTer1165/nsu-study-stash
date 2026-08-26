@@ -96,6 +96,27 @@
     <p id="empty" class="empty" hidden>No courses match your search.</p>
   </main>
 
+  <section class="flags" id="flags" aria-label="Flagged issues">
+    <h2 class="flags__heading"><span aria-hidden="true">🚩</span> Flagged</h2>
+
+    <article class="flag"
+             data-flag-dept="CSE"
+             data-flag-tags="cse411 cse 411 advance database mysqli new mysqli mysqli_connect php mysql quiz quiz 4 quiz4 re-evaluation reevaluation remark marking marks grade grading dispute issue flag red flag complaint exam">
+      <div class="flag__top">
+        <span class="code">CSE411</span>
+        <span class="flag__badge">Issue</span>
+      </div>
+      <h3 class="flag__title">Is <code>new mysqli()</code> really a mistake?</h3>
+      <p class="flag__desc">
+        A Quiz 4 re-evaluation kept as a record: the full message thread with timestamps,
+        the marked answer script, the source code, and a video of it running.
+      </p>
+      <div class="flag__actions">
+        <a class="btn btn--flag" href="https://nsu-cse411.pages.dev/" target="_blank" rel="noopener">Read the write-up ↗</a>
+      </div>
+    </article>
+  </section>
+
   <section id="contribute" class="info">
     <div class="info__card">
       <h2>🤝 Want to contribute?</h2>
@@ -120,27 +141,6 @@
         and it will be taken down promptly.
       </p>
     </div>
-  </section>
-
-  <section class="flags" id="flags" aria-label="Flagged issues">
-    <h2 class="flags__heading"><span aria-hidden="true">🚩</span> Flagged</h2>
-
-    <article class="flag"
-             data-flag-dept="CSE"
-             data-flag-tags="cse411 cse 411 advance database mysqli new mysqli mysqli_connect php mysql quiz quiz 4 quiz4 re-evaluation reevaluation remark marking marks grade grading dispute issue flag red flag complaint exam">
-      <div class="flag__top">
-        <span class="code">CSE411</span>
-        <span class="flag__badge">Issue</span>
-      </div>
-      <h3 class="flag__title">Is <code>new mysqli()</code> really a mistake?</h3>
-      <p class="flag__desc">
-        A Quiz 4 re-evaluation kept as a record: the full message thread with timestamps,
-        the marked answer script, the source code, and a video of it running.
-      </p>
-      <div class="flag__actions">
-        <a class="btn btn--flag" href="https://nsu-cse411.pages.dev/" target="_blank" rel="noopener">Read the write-up ↗</a>
-      </div>
-    </article>
   </section>
 
   <footer class="footer">

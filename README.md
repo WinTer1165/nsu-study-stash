@@ -43,10 +43,13 @@ Course/
 | **CSE331** | Microprocessor & Embedded Systems | ACQ | 2026 | WinTer1165 | [repo](https://github.com/WinTer1165/Multi-Gas-Safety-System-with-Voice-Alerts-Web-Dashboard) | [Drive](https://drive.google.com/file/d/1qmOde9Eva7ccHOxmEg_9mPNiOY0EOkVQ/view?usp=drive_link) |
 | **CSE332** | Computer Organization and Architecture | MAQm | 2025 | WinTer1165 |  [repo](https://github.com/WinTer1165/CSE332-MIPS-CPU-Design-and-Testing) | [Drive](https://drive.google.com/file/d/1HqS8lvGmpS5fgZrKa_xZ67C-V9skhmCf/view?usp=drive_link) |
 | **CSE373** | Design and Analysis of Algorithms | Ekd | 2024 | WinTer1165 | — | [Drive](https://drive.google.com/file/d/1bSr_-6cLq2S26uKVYORsvOD0LpyVx9MJ/view?usp=drive_link) |
+| **CSE411** | Advance Database | RIS | 2026 | WinTer1165 | — | [Drive](https://drive.google.com/file/d/1xIh2GSV3iFw8rdEziDQzQeaunXKdpNwH/view?usp=sharing) |
+| **CSE425** | Concepts of Programming Languages | MDAR | 2026 | WinTer1165 | — | [Drive](https://drive.google.com/file/d/1DYE6TEvhvRXonaPJ92xwycRADqW1Vj1c/view?usp=sharing) |
 | **CSE438** |  Data Communication & Networking | HzR | 2025 | WinTer1165 | — | [Drive](https://drive.google.com/file/d/1yCKcdhnmJ9MZWJIiyWYKoB1KH3gCCsJw/view?usp=drive_link) |
 | **CSE468** | Computer Vision | AFE | 2025 | WinTer1165 | [repo](https://github.com/WinTer1165/Visual-Question-Answering-on-Mobile-UI-Screenshots) | [Drive](https://drive.google.com/file/d/14Oy4FSwmUaHrUz2V8X1objGJX07Nwu-M/view?usp=drive_link) |
 | **CSE482** | Internet and Web Technology | NQH | 2024 | WinTer1165 | — | [Drive](https://drive.google.com/file/d/182_-9E-EpGvPAztcUPNM-2v7BGxBvqnU/view?usp=drive_link) |
 | **EEE141** | Electrical Circuits I | KMM | 2026 | WinTer1165 | — | [Drive](https://drive.google.com/file/d/1Oi-qw0Olli65NFZlUao_9wMuNcJWPSij/view?usp=drive_link) |
+| **EEE111** | Analog Electronics I | ACQ | 2026 | WinTer1165 | — | [Drive](https://drive.google.com/file/d/11fCQkzYmvZDWYuhMsK0S8RH0ftvbPo7G/view?usp=sharing) |
 | **BIO103** | Biology I | Prof. Salequl Islam | 2024 | N/A | — | [Drive](https://drive.google.com/file/d/1LZVzpxiaytPOHdWMjV9mQh_-MD8iBdrm/view?usp=sharing) |
 | **CHE101** | General Chemistry (Lecture Notes) | ABI | 2024 | N/A | — | [Drive](https://drive.google.com/file/d/1gyL8kYKjumuv4sEZiNJwpbfftnwaI4K2/view?usp=drive_link) |
 | **CHE101** | General Chemistry (Slides) | N/A | 2023 | N/A | — | [Drive](https://drive.google.com/file/d/1ytgvdQbSCgVaz_s8rK8p9Ub1nM4s5XGG/view?usp=drive_link) |

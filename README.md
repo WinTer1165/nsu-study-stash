@@ -43,8 +43,8 @@ Course/
 | **CSE331** | Microprocessor & Embedded Systems | ACQ | 2026 | WinTer1165 | [repo](https://github.com/WinTer1165/Multi-Gas-Safety-System-with-Voice-Alerts-Web-Dashboard) | [Drive](https://drive.google.com/file/d/1qmOde9Eva7ccHOxmEg_9mPNiOY0EOkVQ/view?usp=drive_link) |
 | **CSE332** | Computer Organization and Architecture | MAQm | 2025 | WinTer1165 |  [repo](https://github.com/WinTer1165/CSE332-MIPS-CPU-Design-and-Testing) | [Drive](https://drive.google.com/file/d/1HqS8lvGmpS5fgZrKa_xZ67C-V9skhmCf/view?usp=drive_link) |
 | **CSE373** | Design and Analysis of Algorithms | Ekd | 2024 | WinTer1165 | — | [Drive](https://drive.google.com/file/d/1bSr_-6cLq2S26uKVYORsvOD0LpyVx9MJ/view?usp=drive_link) |
-| **CSE411** | Advance Database | RIS | 2026 | WinTer1165 | — | [Drive](https://drive.google.com/file/d/1xIh2GSV3iFw8rdEziDQzQeaunXKdpNwH/view?usp=sharing) |
-| **CSE425** | Concepts of Programming Languages | MDAR | 2026 | WinTer1165 | — | [Drive](https://drive.google.com/file/d/1DYE6TEvhvRXonaPJ92xwycRADqW1Vj1c/view?usp=sharing) |
+| **CSE411** | Advanced Database System | RIS | 2026 | WinTer1165 | — | [Drive](https://drive.google.com/file/d/1xIh2GSV3iFw8rdEziDQzQeaunXKdpNwH/view?usp=sharing) |
+| **CSE425** | Concepts of Programming Language | MdAR | 2026 | WinTer1165 | — | [Drive](https://drive.google.com/file/d/1DYE6TEvhvRXonaPJ92xwycRADqW1Vj1c/view?usp=sharing) |
 | **CSE438** |  Data Communication & Networking | HzR | 2025 | WinTer1165 | — | [Drive](https://drive.google.com/file/d/1yCKcdhnmJ9MZWJIiyWYKoB1KH3gCCsJw/view?usp=drive_link) |
 | **CSE468** | Computer Vision | AFE | 2025 | WinTer1165 | [repo](https://github.com/WinTer1165/Visual-Question-Answering-on-Mobile-UI-Screenshots) | [Drive](https://drive.google.com/file/d/14Oy4FSwmUaHrUz2V8X1objGJX07Nwu-M/view?usp=drive_link) |
 | **CSE482** | Internet and Web Technology | NQH | 2024 | WinTer1165 | — | [Drive](https://drive.google.com/file/d/182_-9E-EpGvPAztcUPNM-2v7BGxBvqnU/view?usp=drive_link) |

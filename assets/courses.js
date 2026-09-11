@@ -131,6 +131,28 @@ const COURSES = [
       "https://drive.google.com/file/d/1bSr_-6cLq2S26uKVYORsvOD0LpyVx9MJ/view?usp=drive_link",
   },
   {
+    code: "CSE411",
+    name: "Advanced Database Systems",
+    dept: "CSE",
+    faculty: "RIS",
+    year: "2026",
+    provider: PROVIDER,
+    project: null,
+    drive:
+      "https://drive.google.com/file/d/1xIh2GSV3iFw8rdEziDQzQeaunXKdpNwH/view",
+  },
+  {
+    code: "CSE425",
+    name: "Concepts of Programming Language",
+    dept: "CSE",
+    faculty: "MdAR",
+    year: "2026",
+    provider: PROVIDER,
+    project: null,
+    drive:
+      "https://drive.google.com/file/d/1DYE6TEvhvRXonaPJ92xwycRADqW1Vj1c/view",
+  },
+  {
     code: "CSE438",
     name: "Data Communication & Networking",
     dept: "CSE",
@@ -163,6 +185,17 @@ const COURSES = [
     project: null,
     drive:
       "https://drive.google.com/file/d/182_-9E-EpGvPAztcUPNM-2v7BGxBvqnU/view?usp=drive_link",
+  },
+  {
+    code: "EEE111",
+    name: "Analog Electronics I",
+    dept: "CSE",
+    faculty: "ACQ",
+    year: "2026",
+    provider: PROVIDER,
+    project: null,
+    drive:
+      "https://drive.google.com/file/d/11fCQkzYmvZDWYuhMsK0S8RH0ftvbPo7G/view",
   },
   {
     code: "EEE141",
